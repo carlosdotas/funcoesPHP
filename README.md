@@ -1,2 +1,2 @@
 # funcoesPHP
-Funções em PHP
+Funções baquicas de PHP
